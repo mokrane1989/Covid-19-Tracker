@@ -1,0 +1,99 @@
+body{
+    margin-top:20px;
+    background:#081217;
+}
+.order-card {
+    color: #081217;
+}
+
+.bg-c-blue {
+    background: linear-gradient(45deg,#081217,#081217);
+}
+
+.bg-c-green {
+    background: linear-gradient(45deg,#081217,#081217);
+}
+
+.bg-c-yellow {
+    background: linear-gradient(45deg,#081217,#081217);
+}
+
+.bg-c-pink {
+    background: linear-gradient(45deg,#081217,#081217);
+}
+
+
+.card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.card .card-block {
+    padding: 25px;
+}
+
+.order-card i {
+    font-size: 26px;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+.box{
+    
+    border: 3px solid transparent;
+    background-clip:padding-box;
+}         
+
+.text-right{
+    
+        color: #7b7b7b;
+    
+}
+
+.card-box {
+    background-color: #081217;
+    padding: 0.5rem;
+    box-shadow: 0 0.75rem 6rem rgba(56, 65, 74, 0.03);
+    margin-bottom: 24px;
+    border-radius: 0.25rem;
+}
+
+
+h4, h6 {
+    margin: 10px 0;
+    font-weight: 600;
+    font-family: "Karla", sans-serif;
+    color: #f7f7f7;
+}
+
+.h2, h2 {
+    font-size: 3rem;
+    font-family: "Karla", sans-serif;
+}
+
+.header-title {
+    font-size: 1rem;
+    margin: 0 0 3px 0;
+        margin-top: 0px;
+        margin-bottom: 7px;
+        margin-left: 10px;
+}
+
+.match-parent {
+    height: 100vh; 
+    width: 100%;
+    position: relative;
+    
+}
+

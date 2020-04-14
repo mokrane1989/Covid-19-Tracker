@@ -1,0 +1,6 @@
+#sticky-footer {
+  flex-shrink: none;
+}
+.bg-dark {
+  background-color: #081217 !important;
+}
