@@ -11,7 +11,7 @@ export class MapService {
 
 
   constructor(private _http: HttpClient) { }
-  private dataApi = "https://corona.lmao.ninja/countries"
+  private dataApi = "https://corona.lmao.ninja/v2/countries"
 
  
   getAll(): Observable<any>{
