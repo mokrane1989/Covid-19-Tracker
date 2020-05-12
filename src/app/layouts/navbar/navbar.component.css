@@ -1,5 +1,9 @@
 .navbar-brand {
-    font-size: 2.25rem;
-    line-height: inherit;
-    white-space: nowrap;
+  font-size: 2.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.navbar-text {
+  white-space: normal;
 }
